@@ -3,8 +3,12 @@
 
 #The app is live # @https://kkkaran.github.io/Get-Fit-App/
 My upload link:https://avneetk3.github.io/Project1Upload/index.html
+Landing Page: 
+![image](https://user-images.githubusercontent.com/92407474/144758768-57abe944-34c1-40bd-ab8f-2dc4ab0e39eb.png)
+
+After selecting muscle type
 ![image](https://user-images.githubusercontent.com/92407474/144758647-1b8004ab-3ee9-492d-90cd-d11f79074e78.png)
-![](assets/images/snap2.PNG)
+
 
 
 # Functionality:
